@@ -72,5 +72,36 @@ artillery run asciiart-load-test.yml
 You will see your output in the terminal.
 
 ### 🥳 Congrats! You have just run your first load test with Artillery.
+--- 
 
+# DIY Example:
+## Exercise: Zombie Horde
 
+### Overview
+- Goal: Setup an Artillery script and simulate 500 simultaneous users using a feature in your umbrella project
+Duration: 2-4 hours
+
+### Steps
+
+> Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
+
+- Install Artillery in your project
+- Create an Artillery script that simulates 500 simultaneous users using the same feature
+- Run the script
+- Review the results with your mentor
+- Questions
+
+> Use these questions to guide your curiosity during the exercise:
+
+What is an Artillery script?
+What is performance testing?
+What is non-functional testing?
+What did running the script reveal?
+Reflection
+
+Use the following questions to reflect on what you learned with this exercise and discuss with your mentor:
+
+If you were to mentor someone in the future, what highlights would you make sure they captured from this exercise?
+How did this exercise build upon the learning outcomes from this topic? What would you change about the exercise to better suit your context for the next apprentice?
+What did this leave you excited to dig further into?
+Where do you want to go from here?
