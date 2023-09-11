@@ -1,2 +1,25 @@
-# artillery-testing-runbook
-📖 Artillery Testing Runbook
+# 📖 Artillery Testing Runbook
+
+# API Resource
+```
+curl http://asciiart.artillery.io:8080/dino
+```
+```
+example output:
+
+_. - ~ ~ ~ - .
+   ..       __.    .-~               ~-.
+   ((\     /   `}.~                     `.
+    \\\   {     }               /     \   \
+(\   \\~~^      }              |       }   \
+ \`.-~ -@~      }  ,-.         |       )    \
+ (___     ) _}   (    :        |    / /      `.
+  `----._-~.     _\ \ |_       \   / /- _      `.
+         ~~----~~  \ \| ~~--~~~(  + /     ~-.     ~- _
+                   /  /         \  \          ~- . _ _~_-_.
+                __/  /          _\  )
+              .<___.'         .<___/
+```
+
+---
+
